@@ -8,7 +8,11 @@ public class circle{
             double a= Math.PI*r1*r1;
             return a;
         }
+        public double circumference(){
+            return 2*Math.PI*radius;
+        }
         public double r1;
+
 }
 
 
