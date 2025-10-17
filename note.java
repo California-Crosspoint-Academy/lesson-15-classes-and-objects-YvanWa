@@ -19,3 +19,9 @@
 //MyClass() is a constructor. It does the actual building of the object using the class blueprint.
 //; end of a statement in Java. Required!
 //myObj.myNumber This means go to the object called myObj and find the variable called myNumber and put it here
+//1. fields: A field is a set of variables. These variables are usually declared private. This means only the object can change access or change them.
+//2. constructors: code that takes the class and builds objects
+//3. methods: code that does something
+//a. getter: code that allows the object to get a variable, also called an accessor
+//b. setter: code that allows the object to change the variable, also called a mutator
+//c. other methods needed to do what the object is supposed to 
